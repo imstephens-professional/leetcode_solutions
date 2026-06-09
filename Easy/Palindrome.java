@@ -1,7 +1,7 @@
 /* Author: Isabella Stephens
  * Created: 9 June 2026
  * Updated: 9 June 2026
- * Completed?: No
+ * Completed?: Yes
  *
  * Problem: Given an integer x, return true if x is a , and false otherwise.
  *
