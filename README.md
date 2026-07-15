@@ -4,4 +4,4 @@ A repo to store my leetcode solutions. This is so the developer can learn how to
 | Date | Easy | Medium | Hard | Goal Met? |
 | ---- | ---- | -----  | ---- | ---------  |
 | June 2026 | 5 | 0 | 0 | No |
-| July 2026 | 0 | 0 | 0 | No |
+| July 2026 | 1 | 0 | 0 | No |
