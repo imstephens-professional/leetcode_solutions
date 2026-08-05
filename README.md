@@ -5,6 +5,7 @@ A repo to store my leetcode solutions. This is so the developer can learn how to
 | ---- | ---- | -----  | ---- | ---------  |
 | June 2026 | 5 | 0 | 0 | No |
 | July 2026 | 21 | 1 | 0 | No |
+| August 2026 | 0 | 0 | 0 | No |
 
 **BF** = Brute Force (works, but not optimized)
 
